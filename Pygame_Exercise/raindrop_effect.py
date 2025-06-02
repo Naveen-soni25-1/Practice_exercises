@@ -20,7 +20,7 @@ class Rain(Sprite):
         self.screen = screen
 
         try:
-            self.image = pygame.image.load("images_1/raindrop.png")
+            self.image = pygame.image.load("images/raindrop.png")
         except FileNotFoundError:
             self.image = pygame.Surface((2, 5))
             self.image.fill((0, 255, 255))
