@@ -9,6 +9,7 @@ This repo contains Python practice exercises and mini-projects that I’ve built
 Practice_projects/
 ├── Data_visualization_Exercises/
 ├── Pygame_Exercise/
+├── random_projcts/
 
 
 ---
